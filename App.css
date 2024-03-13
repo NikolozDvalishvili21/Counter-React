@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  align-items: center;
+  gap: 40px;
+  margin: auto;
+}
+
+.age {
+  font-size: 50px;
+}
+
+.buttons {
+  display: flex;
+  gap: 50px;
+  background-color: none;
+}
